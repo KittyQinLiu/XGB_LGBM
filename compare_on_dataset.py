@@ -2,6 +2,7 @@
 # date 2017/07/07
 # note that content largely reproduces Max Berggren's article: Using ANNs on small data – Deep Learning vs. Xgboost. 
 # the lightgbm part is my own work
+# This is mostly for my own studying purposes. 
 
 import numpy as np
 import pandas as pd
